@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManveerKaur24
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Full Stack Development
+- 🌱 I’m currently learning Backend Development
 
 
 <!---
