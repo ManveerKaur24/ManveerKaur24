@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ManveerKaur24
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Backend Development
+## 📄 My Resume
+You can view my resume [here](https://github.com/ManveerKaur24/ManveerKaur24/raw/main/resume.pdf).  
 
 
 <!---
