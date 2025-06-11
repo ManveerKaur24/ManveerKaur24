@@ -1,6 +1,5 @@
 ## 📄 My Resume
-You can view my resume [Manveer_updated_resume.pdf](https://github.com/user-attachments/files/18783358/Manveer_updated_resume.pdf)
-
+You can view my resume [[Manveer_Kaur_resume.pdf](https://github.com/user-attachments/files/20684711/Manveer_Kaur_resume.pdf).pdf]
 
 
 <!---
